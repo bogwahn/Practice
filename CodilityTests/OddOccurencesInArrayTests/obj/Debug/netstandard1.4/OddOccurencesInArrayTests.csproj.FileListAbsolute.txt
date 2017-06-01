@@ -1,0 +1,6 @@
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/bin/Debug/netstandard1.4/OddOccurencesInArrayTests.dll
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/bin/Debug/netstandard1.4/OddOccurencesInArrayTests.pdb
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/obj/Debug/netstandard1.4/OddOccurencesInArrayTests.csprojResolveAssemblyReference.cache
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/obj/Debug/netstandard1.4/OddOccurencesInArrayTests.AssemblyInfo.cs
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/obj/Debug/netstandard1.4/OddOccurencesInArrayTests.dll
+/Users/andrewvogel/Projects/CodilityTests/OddOccurencesInArrayTests/obj/Debug/netstandard1.4/OddOccurencesInArrayTests.pdb
