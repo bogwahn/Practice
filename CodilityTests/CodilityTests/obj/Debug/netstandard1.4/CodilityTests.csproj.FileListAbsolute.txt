@@ -1,6 +1,0 @@
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/bin/Debug/netstandard1.4/CodilityTests.dll
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/bin/Debug/netstandard1.4/CodilityTests.pdb
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/obj/Debug/netstandard1.4/CodilityTests.csprojResolveAssemblyReference.cache
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/obj/Debug/netstandard1.4/CodilityTests.AssemblyInfo.cs
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/obj/Debug/netstandard1.4/CodilityTests.dll
-/Users/andrewvogel/Projects/CodilityTests/CodilityTests/obj/Debug/netstandard1.4/CodilityTests.pdb
